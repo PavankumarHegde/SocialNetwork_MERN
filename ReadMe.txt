@@ -11,6 +11,6 @@ Instructions To Execute This Project
 3. Make sure that Mongo DB is running at server
 4. Open 2 Commandline
 5. Open The Project using 'cd SocialNetwork' command on both Commandline
-6. Run 'npm start' in first commandline for starting backend of this project
+6. Run 'npm install' & 'npm start' in first commandline for starting backend of this project
 7. Go to frontend Folder using 'cd frontend' on second commandline terminal
-8. Run 'npm start' to start the client side
+8. Run 'npm install' & 'npm start' to start the client side
